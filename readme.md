@@ -14,7 +14,7 @@
 ```
 
 ```scss
-#cookies a {
+#cookies li {
   color: orange;
 }
 
