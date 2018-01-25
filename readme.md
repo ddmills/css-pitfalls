@@ -112,7 +112,7 @@ $danger: red;
 * group the selectors (`.comment-box, .video-container { ... }`)
 
 ```scss
-.padding {
+.container {
   &--comfy {
     padding: 10px;
     margin: 10px;
