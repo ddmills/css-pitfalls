@@ -192,6 +192,7 @@ $danger: red;
 
 ### The solution
 * consider renaming or combining modifiers into a class with a semantic meaning (`.lead` in this case)
-
+* Finding the correct name is difficult, `.news` might be semantic, but `.card` is more reusable and conveys more information to a developer
+* Try to impart semantic meaning via HTML tag
 
 
