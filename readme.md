@@ -143,12 +143,12 @@ $danger: red;
 }
 ```
 
-# The problem
+### The problem
 * rules were likely applied too early
 * more lines of code
 * unnecessary rules
 
-# The solution
+### The solution
 * this is okay for `normalizing` rules across browsers (`user-agent.css`) - see normalize.css!
 * reduce the specificity of the parent
 * consider inverting the rules (more modifier classes):
